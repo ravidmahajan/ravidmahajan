@@ -1,6 +1,7 @@
 # <p align="center"> Hi👋, I'm Ravi Mahajan.</p>
 #### <p align="center">A passionate full stack developer from India</p><br/>
-  
+
+![](https://komarev.com/ghpvc/?username=ravidmahajan)<br/>
 I am currently pursuing my Master's in Management Information System from University at Buffalo, NY.<br/>
 I was most recently an associate at Deutsche Bank. Before that, I was a software engineer at HSBC.
 
